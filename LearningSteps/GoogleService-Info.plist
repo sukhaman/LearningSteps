@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>814587649686-ob6gtm9sm6k4ecu6i5cr91aa7gdfkhfv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.814587649686-ob6gtm9sm6k4ecu6i5cr91aa7gdfkhfv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1O1wE-4kXVZ2cBDmydIs3RplJwf3rL6U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>814587649686</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.decryptcode.LearningSteps</string>
+	<key>PROJECT_ID</key>
+	<string>learningsteps-25084</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learningsteps-25084.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:814587649686:ios:9e529d2444b96089196cb7</string>
+	<key>DATABASE_URL</key>
+	<string>https://learningsteps-25084.firebaseio.com</string>
+</dict>
+</plist>
